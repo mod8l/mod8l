@@ -2,7 +2,7 @@
 
 I help ML startups and R&D teams ship models to production — not just build demos.
 
-I am a hands-on VP R&D with a platform engineering background. My work sits at the intersection of ML systems, security, and engineering leadership: taking prototypes, turning them into reliable services, and building the teams and processes that keep them healthy.
+I am a hands-on VP R&D with a platform engineering background. I spend at least 50% of my time in code, architecture, and production systems — more when the team is small and needs it, less when the team is strong and needs leadership, process, and board-level cover instead. My work sits at the intersection of ML systems, security, and engineering leadership: taking prototypes, turning them into reliable services, and building the teams and processes that keep them healthy.
 
 ---
 
@@ -39,6 +39,8 @@ I am a hands-on VP R&D with a platform engineering background. My work sits at t
 ## Get in touch
 
 - Open an issue or discussion in any of the repos above.
-- Reach out on LinkedIn or Twitter if you want to talk about ML platforms, startup R&D, or production readiness.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME) if you want to talk about ML platforms, startup R&D, or production readiness.
+
+> **Replace the LinkedIn URL above with your actual profile link before pushing.**
 
 > *If you are a founder trying to get your first model into production, start with [`ml-inference-starter`](https://github.com/mod8l/ml-inference-starter) and the [`startup-scaling-playbook`](https://github.com/mod8l/engineering-playbook/blob/main/leadership/startup-scaling-playbook.md).*
