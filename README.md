@@ -27,6 +27,14 @@ I am a hands-on VP R&D with a platform engineering background. I spend at least 
 
 ---
 
+## Projects I am involved in
+
+- **[perceive8](https://github.com/perceive8)** — *(add one-line description)*
+- **[summoro](https://github.com/summoro)** — *(add one-line description)*
+- **[mod81](https://github.com/mod81)** — *(add one-line description)*
+
+> Replace the placeholders above with the real project URLs and one-line descriptions before pushing.
+
 ## Where I add value
 
 - Advising early-stage ML startups on architecture, hiring, and first production deployments.
