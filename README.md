@@ -1,4 +1,4 @@
-# mod8l
+# Gad Sosa — mod8l
 
 I help ML startups and R&D teams ship models to production — not just build demos.
 
