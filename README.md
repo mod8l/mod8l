@@ -39,8 +39,6 @@ I am a hands-on VP R&D with a platform engineering background. I spend at least 
 ## Get in touch
 
 - Open an issue or discussion in any of the repos above.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME) if you want to talk about ML platforms, startup R&D, or production readiness.
-
-> **Replace the LinkedIn URL above with your actual profile link before pushing.**
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/gadsosa/) if you want to talk about ML platforms, startup R&D, or production readiness.
 
 > *If you are a founder trying to get your first model into production, start with [`ml-inference-starter`](https://github.com/mod8l/ml-inference-starter) and the [`startup-scaling-playbook`](https://github.com/mod8l/engineering-playbook/blob/main/leadership/startup-scaling-playbook.md).*
